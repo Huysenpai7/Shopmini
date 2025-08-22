@@ -1,2 +1,0 @@
-# Shopmini
-Ok ok 
