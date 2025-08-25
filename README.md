@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="vi">
 <head>
 <meta charset="utf-8" />
@@ -292,6 +292,6 @@
 </script>
 </body>
 <footer>
-  <div class="wrap">© 2025 Shop Mini – Bản demo HTML/CSS/JS 1 file. Tùy chỉnh thoải mái.</div>
+  <div class="wrap">© 2025 Shop Mini – Bản demo by duc huy </div>
 </footer>
 </html>
